@@ -2,8 +2,10 @@
 
 To run the web app, do:
 
-`npm install  
+```
+npm install  
 
-npm start`
+npm start
+```
 
 this will launch the app at localhost:3000
